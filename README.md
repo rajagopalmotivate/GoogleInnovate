@@ -4,6 +4,11 @@
 # AI  Learning Compnion for different personas 
 Multimodal Generative AI solutions for Transforming Lives
 
+# Design & Implementation of the Idea of generation to gain wisdom from multiple experts 
+Source code: https://colab.research.google.com/drive/1JzUInzpQT7TbkyvtdF7iWlNmoo_Ao-Ay?usp=sharing 
+
+# Design and Code: The LMM learns from the experience of paramedics, and then guides a learner with skills to save a life. 
+https://colab.research.google.com/drive/1EA3TeIkLtvQ8D1EyMHZqyGdboDFH8V_o?usp=sharing 
 
 # Interresting Experiments 
 
